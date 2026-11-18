@@ -1,0 +1,11 @@
+LICENCE
+README.md
+pyproject.toml
+stspm/__init__.py
+stspm/helpers.py
+stspm/model.py
+stspm.egg-info/PKG-INFO
+stspm.egg-info/SOURCES.txt
+stspm.egg-info/dependency_links.txt
+stspm.egg-info/requires.txt
+stspm.egg-info/top_level.txt
